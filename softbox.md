@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Softbox
 header: softbox
 group: navigation
@@ -32,7 +32,7 @@ Steps:
 1. 进入ftp://192.168.188.111
 1. 登录。账号：stuzy 密码：stuzy
 1. 进入 暂存\初一（10）班\夏宇轩（这不是我，我只是借放在他那里）
-1. 下载JiYu Trainer.exe
+1. 下载JiYuTrainer.exe
 1. 运行
    
 <h3>突破封锁（win7）</h3>
