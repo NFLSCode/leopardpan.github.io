@@ -15,9 +15,6 @@ tags: C++
 
 在IDE的文件中搜索这个文件夹，找到后打开。
 
-<details>
-<summary>stdc++.h</summary>
-
 打开后，发现一堆头文件
 
 ```c++
@@ -139,7 +136,5 @@ tags: C++
 #include <unordered_set>
 #endif
 ```
-
-</details>
 
 以后就明白，bits/stdc++.h是啥了！
