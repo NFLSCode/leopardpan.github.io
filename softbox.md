@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Softbox
 header: softbox
 group: navigation

@@ -4,6 +4,7 @@ title: C++万能头（bits/stdc++.h）的原理
 date: 2020-09-20
 tags: C++
 ---
+
 ```c++
 #include<bits/stdc++.h>
 ```
@@ -18,7 +19,8 @@ tags: C++
 <summary>stdc++.h</summary>
 
 打开后，发现一堆头文件
-```
+
+```c++
 // C++ includes used for precompiling -*- C++ -*-
 
 // Copyright (C) 2003-2014 Free Software Foundation, Inc.
@@ -137,6 +139,7 @@ tags: C++
 #include <unordered_set>
 #endif
 ```
+
 </details>
 
 以后就明白，bits/stdc++.h是啥了！
