@@ -9,4 +9,6 @@ group: navigation
 
 我的[洛咕博客](https://nfls.blog.luogu.org)
 
+[![ltywow](images/posts/about/lty.png)](https://www.luogu.com.cn/contest/38911)
+
 暂时先放这么多qwq
