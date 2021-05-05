@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Softbox
-header: softbox
+header: Softbox
 group: navigation
 ---
 这是我的软件库（目前只有南京外国语学校的）
