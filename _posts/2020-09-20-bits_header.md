@@ -9,6 +9,8 @@ tags: C++
 #include<bits/stdc++.h>
 ```
 
+![#include<bits/stdc++.h>](/images/posts/pass/bits_header.png)
+
 万能头文件，其实就是把已知的所有头文件扔进去（好暴力）。
 
 其实，bits表示一个文件夹，stdc++.h是里面的头文件，这表示路径。
